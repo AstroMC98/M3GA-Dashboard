@@ -5,7 +5,12 @@ from st_aggrid import AgGrid
 
 from dashboard_pages.landing import get_contents as landing_content
 
-st.set_page_config(layout="wide")
+im = Image.open("images/favicon.ico")
+st.set_page_config(
+    page_title="Crop Diversity | M3GA",
+    page_icon=im,
+    layout="wide",
+)
 st.markdown(
 """
 <style>
