@@ -41,13 +41,11 @@ def get_contents():
         food security becomes all the more a pressing issue.
         These natural disasters, when they make landfall,
         lay waste to plantations of crops that feed the nation,
-        causing tons of food to go to waste and leading to an increased demand and prices for a decreased supply.
-        </br>This project seeks to use data science,
+        causing tons of food to go to waste and leading to an increased demand and prices for a decreased supply.</br></br>This project seeks to use data science,
         specifically network science, 
         to help policymakers manage crop supply in the country through crop diversification.
         This involves planting crops in areas similar to each other but geographically distant,
-        so that typhoons and other natural calamities do not cripple supply especially of essential goods.
-        </br>This project is envisioned be scalable to include other countries in the region and the world,
+        so that typhoons and other natural calamities do not cripple supply especially of essential goods.</br></br>This project is envisioned be scalable to include other countries in the region and the world,
         ensuring the robustness of global value chains not only for agriculture but for other industries
         that have cross-border movement of goods and services.
         """

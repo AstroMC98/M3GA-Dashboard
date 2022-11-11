@@ -4,6 +4,7 @@ from streamlit_option_menu import option_menu
 from st_aggrid import AgGrid
 
 from dashboard_pages.landing import get_contents as landing_content
+from dashboard_pages.eda import get_contents as data_content
 
 im = Image.open("images/favicon.ico")
 st.set_page_config(
@@ -34,7 +35,7 @@ with st.sidebar:
                                    "How to Scale?",
                                    "FAQs"],
                          icons=['house', 'boxes', 'diagram-3', 'graph-up-arrow','card-checklist', 'question-circle'],
-                         default_index=0,
+                         default_index=1,
                          styles={
                                 "container": {
                                             "padding": "5!important",
@@ -62,8 +63,8 @@ with st.sidebar:
 
 if choose == "Crop Diversification":
     landing_content()
-# elif choose == "Data Overview":
-#     overview_content()
+elif choose == "Our Data":
+    data_content()
 # elif choose == "Skill Analysis":
 #     skill_content()
 # elif choose == "Emerging Jobs":
