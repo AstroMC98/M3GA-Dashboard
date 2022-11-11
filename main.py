@@ -38,7 +38,7 @@ with st.sidebar:
                                    "Recommendations"
                                    ],
                          icons=['house', 'boxes', 'diagram-3','card-checklist', 'question-circle'],
-                         default_index=2,
+                         default_index=0,
                          styles={
                                 "container": {
                                             "padding": "5!important",
