@@ -1,0 +1,1502 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-11-10">
+    <creator>NetworkX 2.8.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="distance" type="double" />
+    </attributes>
+    <nodes>
+      <node id="REGION I (ILOCOS REGION)_Q1" label="REGION I (ILOCOS REGION)_Q1" />
+      <node id="REGION VI (WESTERN VISAYAS)_Q1" label="REGION VI (WESTERN VISAYAS)_Q1" />
+      <node id="REGION VI (WESTERN VISAYAS)_Q4" label="REGION VI (WESTERN VISAYAS)_Q4" />
+      <node id="REGION XII (SOCCSKSARGEN)_Q4" label="REGION XII (SOCCSKSARGEN)_Q4" />
+      <node id="REGION XI (DAVAO REGION)_Q4" label="REGION XI (DAVAO REGION)_Q4" />
+      <node id="REGION I (ILOCOS REGION)_Q2" label="REGION I (ILOCOS REGION)_Q2" />
+      <node id="REGION XI (DAVAO REGION)_Q3" label="REGION XI (DAVAO REGION)_Q3" />
+      <node id="REGION II (CAGAYAN VALLEY)_Q2" label="REGION II (CAGAYAN VALLEY)_Q2" />
+      <node id="REGION VI (WESTERN VISAYAS)_Q2" label="REGION VI (WESTERN VISAYAS)_Q2" />
+      <node id="REGION I (ILOCOS REGION)_Q4" label="REGION I (ILOCOS REGION)_Q4" />
+      <node id="REGION IV-A (CALABARZON)_Q1" label="REGION IV-A (CALABARZON)_Q1" />
+      <node id="REGION XII (SOCCSKSARGEN)_Q1" label="REGION XII (SOCCSKSARGEN)_Q1" />
+      <node id="REGION X (NORTHERN MINDANAO)_Q4" label="REGION X (NORTHERN MINDANAO)_Q4" />
+      <node id="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" label="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" />
+      <node id="REGION X (NORTHERN MINDANAO)_Q3" label="REGION X (NORTHERN MINDANAO)_Q3" />
+      <node id="REGION XI (DAVAO REGION)_Q2" label="REGION XI (DAVAO REGION)_Q2" />
+      <node id="REGION XII (SOCCSKSARGEN)_Q2" label="REGION XII (SOCCSKSARGEN)_Q2" />
+      <node id="REGION III (CENTRAL LUZON)_Q2" label="REGION III (CENTRAL LUZON)_Q2" />
+      <node id="REGION IV-A (CALABARZON)_Q2" label="REGION IV-A (CALABARZON)_Q2" />
+      <node id="REGION XI (DAVAO REGION)_Q1" label="REGION XI (DAVAO REGION)_Q1" />
+      <node id="REGION VII (CENTRAL VISAYAS)_Q2" label="REGION VII (CENTRAL VISAYAS)_Q2" />
+      <node id="REGION X (NORTHERN MINDANAO)_Q2" label="REGION X (NORTHERN MINDANAO)_Q2" />
+      <node id="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" label="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" />
+      <node id="REGION IV-A (CALABARZON)_Q3" label="REGION IV-A (CALABARZON)_Q3" />
+      <node id="REGION III (CENTRAL LUZON)_Q1" label="REGION III (CENTRAL LUZON)_Q1" />
+      <node id="REGION V (BICOL REGION)_Q2" label="REGION V (BICOL REGION)_Q2" />
+      <node id="REGION XII (SOCCSKSARGEN)_Q3" label="REGION XII (SOCCSKSARGEN)_Q3" />
+      <node id="REGION I (ILOCOS REGION)_Q3" label="REGION I (ILOCOS REGION)_Q3" />
+      <node id="REGION II (CAGAYAN VALLEY)_Q1" label="REGION II (CAGAYAN VALLEY)_Q1" />
+      <node id="REGION VII (CENTRAL VISAYAS)_Q4" label="REGION VII (CENTRAL VISAYAS)_Q4" />
+      <node id="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q4" label="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q4" />
+      <node id="REGION V (BICOL REGION)_Q3" label="REGION V (BICOL REGION)_Q3" />
+      <node id="REGION IV-A (CALABARZON)_Q4" label="REGION IV-A (CALABARZON)_Q4" />
+      <node id="REGION VI (WESTERN VISAYAS)_Q3" label="REGION VI (WESTERN VISAYAS)_Q3" />
+      <node id="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" label="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" />
+      <node id="REGION X (NORTHERN MINDANAO)_Q1" label="REGION X (NORTHERN MINDANAO)_Q1" />
+      <node id="REGION V (BICOL REGION)_Q1" label="REGION V (BICOL REGION)_Q1" />
+      <node id="REGION V (BICOL REGION)_Q4" label="REGION V (BICOL REGION)_Q4" />
+      <node id="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" label="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" />
+      <node id="REGION IX (ZAMBOANGA PENINSULA)_Q2" label="REGION IX (ZAMBOANGA PENINSULA)_Q2" />
+      <node id="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q3" label="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q3" />
+      <node id="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q1" label="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q1" />
+      <node id="REGION II (CAGAYAN VALLEY)_Q4" label="REGION II (CAGAYAN VALLEY)_Q4" />
+      <node id="REGION II (CAGAYAN VALLEY)_Q3" label="REGION II (CAGAYAN VALLEY)_Q3" />
+      <node id="REGION III (CENTRAL LUZON)_Q4" label="REGION III (CENTRAL LUZON)_Q4" />
+      <node id="REGION VII (CENTRAL VISAYAS)_Q3" label="REGION VII (CENTRAL VISAYAS)_Q3" />
+      <node id="REGION III (CENTRAL LUZON)_Q3" label="REGION III (CENTRAL LUZON)_Q3" />
+      <node id="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q2" label="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q2" />
+      <node id="REGION IX (ZAMBOANGA PENINSULA)_Q4" label="REGION IX (ZAMBOANGA PENINSULA)_Q4" />
+      <node id="REGION VIII (EASTERN VISAYAS)_Q4" label="REGION VIII (EASTERN VISAYAS)_Q4" />
+      <node id="MIMAROPA REGION_Q1" label="MIMAROPA REGION_Q1" />
+      <node id="REGION VIII (EASTERN VISAYAS)_Q3" label="REGION VIII (EASTERN VISAYAS)_Q3" />
+      <node id="REGION XIII (CARAGA)_Q2" label="REGION XIII (CARAGA)_Q2" />
+      <node id="REGION VIII (EASTERN VISAYAS)_Q2" label="REGION VIII (EASTERN VISAYAS)_Q2" />
+      <node id="REGION VII (CENTRAL VISAYAS)_Q1" label="REGION VII (CENTRAL VISAYAS)_Q1" />
+      <node id="REGION XIII (CARAGA)_Q4" label="REGION XIII (CARAGA)_Q4" />
+      <node id="REGION IX (ZAMBOANGA PENINSULA)_Q3" label="REGION IX (ZAMBOANGA PENINSULA)_Q3" />
+    </nodes>
+    <edges>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VI (WESTERN VISAYAS)_Q1" id="0" weight="22">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VI (WESTERN VISAYAS)_Q2" id="1" weight="17">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VI (WESTERN VISAYAS)_Q4" id="2" weight="15">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION XII (SOCCSKSARGEN)_Q4" id="3" weight="11">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION XII (SOCCSKSARGEN)_Q2" id="4" weight="11">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VI (WESTERN VISAYAS)_Q3" id="5" weight="8">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION XII (SOCCSKSARGEN)_Q3" id="6" weight="8">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION XII (SOCCSKSARGEN)_Q1" id="7" weight="8">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q2" id="8" weight="7">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION XI (DAVAO REGION)_Q2" id="9" weight="7">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION X (NORTHERN MINDANAO)_Q3" id="10" weight="7">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q4" id="11" weight="6">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION XI (DAVAO REGION)_Q3" id="12" weight="5">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION X (NORTHERN MINDANAO)_Q4" id="13" weight="4">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q1" id="14" weight="4">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION I (ILOCOS REGION)_Q2" id="15" weight="17">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION II (CAGAYAN VALLEY)_Q2" id="16" weight="17">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION I (ILOCOS REGION)_Q4" id="17" weight="16">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XII (SOCCSKSARGEN)_Q4" id="18" weight="14">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION III (CENTRAL LUZON)_Q2" id="19" weight="13">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION III (CENTRAL LUZON)_Q1" id="20" weight="10">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION I (ILOCOS REGION)_Q3" id="21" weight="9">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION II (CAGAYAN VALLEY)_Q1" id="22" weight="9">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XII (SOCCSKSARGEN)_Q1" id="23" weight="8">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XII (SOCCSKSARGEN)_Q3" id="24" weight="8">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XI (DAVAO REGION)_Q2" id="25" weight="7">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION II (CAGAYAN VALLEY)_Q4" id="26" weight="7">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XII (SOCCSKSARGEN)_Q2" id="27" weight="7">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION II (CAGAYAN VALLEY)_Q3" id="28" weight="7">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION III (CENTRAL LUZON)_Q4" id="29" weight="7">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="30" weight="6">
+        <attvalues>
+          <attvalue for="0" value="456196.81752570625" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XI (DAVAO REGION)_Q3" id="31" weight="6">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XI (DAVAO REGION)_Q4" id="32" weight="6">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION III (CENTRAL LUZON)_Q3" id="33" weight="5">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q1" target="REGION XI (DAVAO REGION)_Q1" id="34" weight="4">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XII (SOCCSKSARGEN)_Q4" id="35" weight="18">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XI (DAVAO REGION)_Q4" id="36" weight="17">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XI (DAVAO REGION)_Q3" id="37" weight="17">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XII (SOCCSKSARGEN)_Q1" id="38" weight="14">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XI (DAVAO REGION)_Q2" id="39" weight="13">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION I (ILOCOS REGION)_Q4" id="40" weight="13">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XII (SOCCSKSARGEN)_Q2" id="41" weight="13">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XI (DAVAO REGION)_Q1" id="42" weight="12">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION II (CAGAYAN VALLEY)_Q2" id="43" weight="10">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION I (ILOCOS REGION)_Q2" id="44" weight="10">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION XII (SOCCSKSARGEN)_Q3" id="45" weight="10">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="46" weight="9">
+        <attvalues>
+          <attvalue for="0" value="456196.81752570625" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION I (ILOCOS REGION)_Q3" id="47" weight="7">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION II (CAGAYAN VALLEY)_Q3" id="48" weight="7">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION II (CAGAYAN VALLEY)_Q1" id="49" weight="6">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION II (CAGAYAN VALLEY)_Q4" id="50" weight="5">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION III (CENTRAL LUZON)_Q4" id="51" weight="4">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION III (CENTRAL LUZON)_Q2" id="52" weight="4">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" id="53" weight="4">
+        <attvalues>
+          <attvalue for="0" value="456196.81752570625" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q4" target="REGION III (CENTRAL LUZON)_Q1" id="54" weight="4">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION VI (WESTERN VISAYAS)_Q2" id="55" weight="13">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION I (ILOCOS REGION)_Q2" id="56" weight="10">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION I (ILOCOS REGION)_Q4" id="57" weight="9">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION IV-A (CALABARZON)_Q1" id="58" weight="9">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION VI (WESTERN VISAYAS)_Q3" id="59" weight="8">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION II (CAGAYAN VALLEY)_Q2" id="60" weight="7">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="61" weight="7">
+        <attvalues>
+          <attvalue for="0" value="1026127.9233580631" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION I (ILOCOS REGION)_Q3" id="62" weight="7">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION II (CAGAYAN VALLEY)_Q3" id="63" weight="7">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION IV-A (CALABARZON)_Q2" id="64" weight="6">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION V (BICOL REGION)_Q3" id="65" weight="4">
+        <attvalues>
+          <attvalue for="0" value="449470.51970866206" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q4" target="REGION II (CAGAYAN VALLEY)_Q1" id="66" weight="4">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION IV-A (CALABARZON)_Q1" id="67" weight="15">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION IV-A (CALABARZON)_Q2" id="68" weight="10">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION V (BICOL REGION)_Q2" id="69" weight="9">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION IV-A (CALABARZON)_Q3" id="70" weight="9">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION V (BICOL REGION)_Q3" id="71" weight="9">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION III (CENTRAL LUZON)_Q2" id="72" weight="8">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="73" weight="8">
+        <attvalues>
+          <attvalue for="0" value="1037993.3812871829" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION IV-A (CALABARZON)_Q4" id="74" weight="7">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION V (BICOL REGION)_Q1" id="75" weight="7">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION V (BICOL REGION)_Q4" id="76" weight="7">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION II (CAGAYAN VALLEY)_Q2" id="77" weight="7">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION II (CAGAYAN VALLEY)_Q3" id="78" weight="5">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION I (ILOCOS REGION)_Q2" id="79" weight="5">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION VI (WESTERN VISAYAS)_Q3" id="80" weight="5">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION II (CAGAYAN VALLEY)_Q1" id="81" weight="4">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION III (CENTRAL LUZON)_Q3" id="82" weight="4">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="REGION II (CAGAYAN VALLEY)_Q4" id="83" weight="4">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" id="84" weight="4">
+        <attvalues>
+          <attvalue for="0" value="1037993.3812871829" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION VI (WESTERN VISAYAS)_Q2" id="85" weight="14">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION XII (SOCCSKSARGEN)_Q2" id="86" weight="12">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q2" id="87" weight="11">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION XI (DAVAO REGION)_Q2" id="88" weight="10">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION XII (SOCCSKSARGEN)_Q1" id="89" weight="7">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION X (NORTHERN MINDANAO)_Q4" id="90" weight="6">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q4" id="91" weight="6">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION XII (SOCCSKSARGEN)_Q3" id="92" weight="6">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION VI (WESTERN VISAYAS)_Q3" id="93" weight="6">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION X (NORTHERN MINDANAO)_Q3" id="94" weight="6">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION X (NORTHERN MINDANAO)_Q2" id="95" weight="5">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION IX (ZAMBOANGA PENINSULA)_Q2" id="96" weight="5">
+        <attvalues>
+          <attvalue for="0" value="816905.1847453786" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q3" id="97" weight="5">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION XI (DAVAO REGION)_Q3" id="98" weight="4">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION XI (DAVAO REGION)_Q1" id="99" weight="4">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q1" id="100" weight="4">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION IV-A (CALABARZON)_Q1" id="101" weight="15">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION IV-A (CALABARZON)_Q3" id="102" weight="11">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION V (BICOL REGION)_Q2" id="103" weight="10">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION IV-A (CALABARZON)_Q2" id="104" weight="10">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="105" weight="9">
+        <attvalues>
+          <attvalue for="0" value="1037993.3812871829" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION IV-A (CALABARZON)_Q4" id="106" weight="9">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION III (CENTRAL LUZON)_Q2" id="107" weight="9">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION V (BICOL REGION)_Q1" id="108" weight="8">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION V (BICOL REGION)_Q3" id="109" weight="8">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION II (CAGAYAN VALLEY)_Q1" id="110" weight="7">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION V (BICOL REGION)_Q4" id="111" weight="7">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION II (CAGAYAN VALLEY)_Q3" id="112" weight="7">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION II (CAGAYAN VALLEY)_Q2" id="113" weight="5">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION I (ILOCOS REGION)_Q4" id="114" weight="5">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION I (ILOCOS REGION)_Q3" id="115" weight="5">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION VI (WESTERN VISAYAS)_Q3" id="116" weight="5">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="MIMAROPA REGION_Q1" id="117" weight="4">
+        <attvalues>
+          <attvalue for="0" value="481197.2133830489" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION II (CAGAYAN VALLEY)_Q4" id="118" weight="4">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION III (CENTRAL LUZON)_Q4" id="119" weight="4">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q3" target="REGION III (CENTRAL LUZON)_Q3" id="120" weight="4">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION VI (WESTERN VISAYAS)_Q2" id="121" weight="13">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION XI (DAVAO REGION)_Q2" id="122" weight="9">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION XII (SOCCSKSARGEN)_Q2" id="123" weight="8">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION X (NORTHERN MINDANAO)_Q2" id="124" weight="7">
+        <attvalues>
+          <attvalue for="0" value="809517.6901385993" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION XII (SOCCSKSARGEN)_Q1" id="125" weight="6">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION X (NORTHERN MINDANAO)_Q4" id="126" weight="6">
+        <attvalues>
+          <attvalue for="0" value="809517.6901385993" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION X (NORTHERN MINDANAO)_Q3" id="127" weight="6">
+        <attvalues>
+          <attvalue for="0" value="809517.6901385993" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q3" id="128" weight="5">
+        <attvalues>
+          <attvalue for="0" value="898462.8249401179" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q2" id="129" weight="5">
+        <attvalues>
+          <attvalue for="0" value="898462.8249401179" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION X (NORTHERN MINDANAO)_Q1" id="130" weight="5">
+        <attvalues>
+          <attvalue for="0" value="809517.6901385993" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION XI (DAVAO REGION)_Q1" id="131" weight="5">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION IX (ZAMBOANGA PENINSULA)_Q2" id="132" weight="5">
+        <attvalues>
+          <attvalue for="0" value="798658.9532424075" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q2" id="133" weight="5">
+        <attvalues>
+          <attvalue for="0" value="551338.3053413532" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q2" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q1" id="134" weight="4">
+        <attvalues>
+          <attvalue for="0" value="898462.8249401179" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION III (CENTRAL LUZON)_Q2" id="135" weight="11">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION XII (SOCCSKSARGEN)_Q3" id="136" weight="9">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION I (ILOCOS REGION)_Q4" id="137" weight="8">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION XI (DAVAO REGION)_Q2" id="138" weight="8">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION XII (SOCCSKSARGEN)_Q2" id="139" weight="8">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION XII (SOCCSKSARGEN)_Q1" id="140" weight="7">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION III (CENTRAL LUZON)_Q1" id="141" weight="6">
+        <attvalues>
+          <attvalue for="0" value="260974.0001568477" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION I (ILOCOS REGION)_Q3" id="142" weight="6">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION II (CAGAYAN VALLEY)_Q1" id="143" weight="5">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q2" target="REGION II (CAGAYAN VALLEY)_Q4" id="144" weight="4">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION VI (WESTERN VISAYAS)_Q3" id="145" weight="9">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION XII (SOCCSKSARGEN)_Q2" id="146" weight="8">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION XII (SOCCSKSARGEN)_Q1" id="147" weight="7">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION XII (SOCCSKSARGEN)_Q3" id="148" weight="7">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION VII (CENTRAL VISAYAS)_Q4" id="149" weight="6">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION X (NORTHERN MINDANAO)_Q3" id="150" weight="6">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION XI (DAVAO REGION)_Q2" id="151" weight="5">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q4" target="REGION VII (CENTRAL VISAYAS)_Q3" id="152" weight="4">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION X (NORTHERN MINDANAO)_Q4" id="153" weight="13">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION XI (DAVAO REGION)_Q1" id="154" weight="10">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION XII (SOCCSKSARGEN)_Q2" id="155" weight="10">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION XII (SOCCSKSARGEN)_Q1" id="156" weight="10">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q4" id="157" weight="9">
+        <attvalues>
+          <attvalue for="0" value="578466.8014467602" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION X (NORTHERN MINDANAO)_Q2" id="158" weight="9">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION XI (DAVAO REGION)_Q2" id="159" weight="9">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q3" id="160" weight="7">
+        <attvalues>
+          <attvalue for="0" value="578466.8014467602" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q1" id="161" weight="7">
+        <attvalues>
+          <attvalue for="0" value="578466.8014467602" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION X (NORTHERN MINDANAO)_Q3" id="162" weight="7">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION X (NORTHERN MINDANAO)_Q1" id="163" weight="6">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q1" target="REGION XII (SOCCSKSARGEN)_Q3" id="164" weight="5">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q1" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="165" weight="7">
+        <attvalues>
+          <attvalue for="0" value="1026127.9233580631" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q1" target="REGION VI (WESTERN VISAYAS)_Q3" id="166" weight="6">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q1" target="REGION I (ILOCOS REGION)_Q3" id="167" weight="5">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q1" target="REGION IV-A (CALABARZON)_Q2" id="168" weight="4">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q1" target="REGION II (CAGAYAN VALLEY)_Q3" id="169" weight="4">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q1" target="REGION II (CAGAYAN VALLEY)_Q1" id="170" weight="4">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" id="171" weight="12">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION IV-A (CALABARZON)_Q2" id="172" weight="9">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" id="173" weight="8">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION IV-A (CALABARZON)_Q3" id="174" weight="8">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION IV-A (CALABARZON)_Q4" id="175" weight="7">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION V (BICOL REGION)_Q2" id="176" weight="7">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" id="177" weight="6">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" id="178" weight="6">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION V (BICOL REGION)_Q4" id="179" weight="4">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION III (CENTRAL LUZON)_Q2" id="180" weight="4">
+        <attvalues>
+          <attvalue for="0" value="707921.526698385" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q4" target="REGION I (ILOCOS REGION)_Q3" id="181" weight="4">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION X (NORTHERN MINDANAO)_Q3" id="182" weight="13">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q4" id="183" weight="9">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION X (NORTHERN MINDANAO)_Q1" id="184" weight="8">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION XII (SOCCSKSARGEN)_Q2" id="185" weight="7">
+        <attvalues>
+          <attvalue for="0" value="1026127.9233580631" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION VI (WESTERN VISAYAS)_Q3" id="186" weight="6">
+        <attvalues>
+          <attvalue for="0" value="456196.81752570625" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q3" id="187" weight="6">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION V (BICOL REGION)_Q2" id="188" weight="4">
+        <attvalues>
+          <attvalue for="0" value="273405.5329722427" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q2" id="189" weight="4">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION X (NORTHERN MINDANAO)_Q2" id="190" weight="4">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="REGION XI (DAVAO REGION)_Q1" id="191" weight="4">
+        <attvalues>
+          <attvalue for="0" value="1037993.3812871829" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q1" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q4" id="192" weight="4">
+        <attvalues>
+          <attvalue for="0" value="936892.3839649471" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" id="193" weight="11">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION IV-A (CALABARZON)_Q2" id="194" weight="8">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" id="195" weight="8">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION IV-A (CALABARZON)_Q3" id="196" weight="8">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" id="197" weight="8">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION IV-A (CALABARZON)_Q4" id="198" weight="7">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION II (CAGAYAN VALLEY)_Q3" id="199" weight="7">
+        <attvalues>
+          <attvalue for="0" value="809517.6901385993" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION V (BICOL REGION)_Q2" id="200" weight="6">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION I (ILOCOS REGION)_Q3" id="201" weight="6">
+        <attvalues>
+          <attvalue for="0" value="835519.2080661214" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION III (CENTRAL LUZON)_Q1" id="202" weight="5">
+        <attvalues>
+          <attvalue for="0" value="707921.526698385" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION V (BICOL REGION)_Q3" id="203" weight="5">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION V (BICOL REGION)_Q4" id="204" weight="5">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION II (CAGAYAN VALLEY)_Q1" id="205" weight="4">
+        <attvalues>
+          <attvalue for="0" value="809517.6901385993" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q3" target="REGION III (CENTRAL LUZON)_Q2" id="206" weight="4">
+        <attvalues>
+          <attvalue for="0" value="707921.526698385" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION IV-A (CALABARZON)_Q2" id="207" weight="12">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION III (CENTRAL LUZON)_Q2" id="208" weight="11">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION V (BICOL REGION)_Q2" id="209" weight="10">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION V (BICOL REGION)_Q3" id="210" weight="9">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION V (BICOL REGION)_Q4" id="211" weight="8">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION IV-A (CALABARZON)_Q3" id="212" weight="7">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION V (BICOL REGION)_Q1" id="213" weight="7">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION IV-A (CALABARZON)_Q4" id="214" weight="6">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION II (CAGAYAN VALLEY)_Q1" id="215" weight="5">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION III (CENTRAL LUZON)_Q3" id="216" weight="5">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION VI (WESTERN VISAYAS)_Q3" id="217" weight="5">
+        <attvalues>
+          <attvalue for="0" value="338194.6855100295" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION III (CENTRAL LUZON)_Q4" id="218" weight="4">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION II (CAGAYAN VALLEY)_Q4" id="219" weight="4">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION I (ILOCOS REGION)_Q3" id="220" weight="4">
+        <attvalues>
+          <attvalue for="0" value="995939.0309233265" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q2" target="REGION II (CAGAYAN VALLEY)_Q3" id="221" weight="4">
+        <attvalues>
+          <attvalue for="0" value="969800.7677916322" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION IV-A (CALABARZON)_Q2" id="222" weight="7">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION II (CAGAYAN VALLEY)_Q3" id="223" weight="7">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION III (CENTRAL LUZON)_Q2" id="224" weight="6">
+        <attvalues>
+          <attvalue for="0" value="851545.1929091617" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION I (ILOCOS REGION)_Q3" id="225" weight="6">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION VIII (EASTERN VISAYAS)_Q4" id="226" weight="4">
+        <attvalues>
+          <attvalue for="0" value="251634.64575155883" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION VI (WESTERN VISAYAS)_Q3" id="227" weight="4">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION III (CENTRAL LUZON)_Q1" id="228" weight="4">
+        <attvalues>
+          <attvalue for="0" value="851545.1929091617" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION V (BICOL REGION)_Q3" id="229" weight="4">
+        <attvalues>
+          <attvalue for="0" value="449470.51970866206" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q2" target="REGION II (CAGAYAN VALLEY)_Q1" id="230" weight="4">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION III (CENTRAL LUZON)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q2" id="231" weight="10">
+        <attvalues>
+          <attvalue for="0" value="468677.00199818757" />
+        </attvalues>
+      </edge>
+      <edge source="REGION III (CENTRAL LUZON)_Q2" target="REGION IX (ZAMBOANGA PENINSULA)_Q2" id="232" weight="7">
+        <attvalues>
+          <attvalue for="0" value="680763.9960036577" />
+        </attvalues>
+      </edge>
+      <edge source="REGION III (CENTRAL LUZON)_Q2" target="REGION X (NORTHERN MINDANAO)_Q2" id="233" weight="6">
+        <attvalues>
+          <attvalue for="0" value="707921.526698385" />
+        </attvalues>
+      </edge>
+      <edge source="REGION III (CENTRAL LUZON)_Q2" target="REGION XI (DAVAO REGION)_Q1" id="234" weight="6">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION III (CENTRAL LUZON)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q4" id="235" weight="4">
+        <attvalues>
+          <attvalue for="0" value="468677.00199818757" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q2" target="REGION X (NORTHERN MINDANAO)_Q2" id="236" weight="11">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q2" target="REGION XI (DAVAO REGION)_Q1" id="237" weight="7">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q2" target="REGION IX (ZAMBOANGA PENINSULA)_Q2" id="238" weight="5">
+        <attvalues>
+          <attvalue for="0" value="483994.2681599613" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q2" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q4" id="239" weight="4">
+        <attvalues>
+          <attvalue for="0" value="578466.8014467602" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q2" target="REGION XII (SOCCSKSARGEN)_Q3" id="240" weight="4">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION V (BICOL REGION)_Q2" id="241" weight="7">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION V (BICOL REGION)_Q3" id="242" weight="6">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION V (BICOL REGION)_Q4" id="243" weight="6">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION IV-A (CALABARZON)_Q3" id="244" weight="6">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION III (CENTRAL LUZON)_Q3" id="245" weight="5">
+        <attvalues>
+          <attvalue for="0" value="876233.4062421446" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION V (BICOL REGION)_Q1" id="246" weight="5">
+        <attvalues>
+          <attvalue for="0" value="437625.5215293407" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XI (DAVAO REGION)_Q1" target="REGION IV-A (CALABARZON)_Q4" id="247" weight="4">
+        <attvalues>
+          <attvalue for="0" value="648102.0448656173" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VII (CENTRAL VISAYAS)_Q2" target="REGION III (CENTRAL LUZON)_Q1" id="248" weight="5">
+        <attvalues>
+          <attvalue for="0" value="468677.00199818757" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q2" target="REGION IV-A (CALABARZON)_Q4" id="249" weight="8">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q2" target="REGION IV-A (CALABARZON)_Q3" id="250" weight="6">
+        <attvalues>
+          <attvalue for="0" value="487774.1599894067" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q2" target="REGION V (BICOL REGION)_Q3" id="251" weight="4">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q2" target="REGION V (BICOL REGION)_Q4" id="252" weight="4">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="REGION X (NORTHERN MINDANAO)_Q2" target="REGION V (BICOL REGION)_Q2" id="253" weight="4">
+        <attvalues>
+          <attvalue for="0" value="281062.6800367596" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" target="REGION VII (CENTRAL VISAYAS)_Q4" id="254" weight="5">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" target="REGION X (NORTHERN MINDANAO)_Q1" id="255" weight="5">
+        <attvalues>
+          <attvalue for="0" value="877587.1965731549" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" target="REGION V (BICOL REGION)_Q2" id="256" weight="4">
+        <attvalues>
+          <attvalue for="0" value="273405.5329722427" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q4" target="REGION VII (CENTRAL VISAYAS)_Q3" id="257" weight="4">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="REGION V (BICOL REGION)_Q2" target="REGION IX (ZAMBOANGA PENINSULA)_Q4" id="258" weight="5">
+        <attvalues>
+          <attvalue for="0" value="318716.1695911671" />
+        </attvalues>
+      </edge>
+      <edge source="REGION V (BICOL REGION)_Q2" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" id="259" weight="4">
+        <attvalues>
+          <attvalue for="0" value="273405.5329722427" />
+        </attvalues>
+      </edge>
+      <edge source="REGION V (BICOL REGION)_Q2" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q1" id="260" weight="4">
+        <attvalues>
+          <attvalue for="0" value="389063.7366790304" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q3" target="REGION VI (WESTERN VISAYAS)_Q3" id="261" weight="7">
+        <attvalues>
+          <attvalue for="0" value="280444.33670868346" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q3" target="REGION I (ILOCOS REGION)_Q3" id="262" weight="5">
+        <attvalues>
+          <attvalue for="0" value="982506.0411538128" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q3" target="REGION II (CAGAYAN VALLEY)_Q3" id="263" weight="5">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q3" target="REGION III (CENTRAL LUZON)_Q3" id="264" weight="4">
+        <attvalues>
+          <attvalue for="0" value="851545.1929091617" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q3" target="REGION IV-A (CALABARZON)_Q4" id="265" weight="4">
+        <attvalues>
+          <attvalue for="0" value="640878.0907256043" />
+        </attvalues>
+      </edge>
+      <edge source="REGION XII (SOCCSKSARGEN)_Q3" target="REGION II (CAGAYAN VALLEY)_Q1" id="266" weight="4">
+        <attvalues>
+          <attvalue for="0" value="960898.1586576438" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q3" target="REGION VI (WESTERN VISAYAS)_Q3" id="267" weight="7">
+        <attvalues>
+          <attvalue for="0" value="405186.0065902655" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q3" target="REGION VII (CENTRAL VISAYAS)_Q3" id="268" weight="5">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION I (ILOCOS REGION)_Q3" target="REGION VII (CENTRAL VISAYAS)_Q4" id="269" weight="4">
+        <attvalues>
+          <attvalue for="0" value="581751.1090181628" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q1" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q3" id="270" weight="4">
+        <attvalues>
+          <attvalue for="0" value="898462.8249401179" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q1" target="AUTONOMOUS REGION IN MUSLIM MINDANAO_Q2" id="271" weight="4">
+        <attvalues>
+          <attvalue for="0" value="898462.8249401179" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q1" target="REGION VII (CENTRAL VISAYAS)_Q1" id="272" weight="4">
+        <attvalues>
+          <attvalue for="0" value="551338.3053413532" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q1" target="REGION VI (WESTERN VISAYAS)_Q3" id="273" weight="4">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VII (CENTRAL VISAYAS)_Q4" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" id="274" weight="6">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="REGION V (BICOL REGION)_Q3" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" id="275" weight="4">
+        <attvalues>
+          <attvalue for="0" value="273405.5329722427" />
+        </attvalues>
+      </edge>
+      <edge source="REGION V (BICOL REGION)_Q3" target="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q3" id="276" weight="4">
+        <attvalues>
+          <attvalue for="0" value="273405.5329722427" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q4" target="REGION XIII (CARAGA)_Q2" id="277" weight="4">
+        <attvalues>
+          <attvalue for="0" value="428987.0372139979" />
+        </attvalues>
+      </edge>
+      <edge source="REGION IV-A (CALABARZON)_Q4" target="REGION XIII (CARAGA)_Q4" id="278" weight="4">
+        <attvalues>
+          <attvalue for="0" value="428987.0372139979" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q3" target="REGION II (CAGAYAN VALLEY)_Q3" id="279" weight="5">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="REGION VI (WESTERN VISAYAS)_Q3" target="REGION II (CAGAYAN VALLEY)_Q4" id="280" weight="4">
+        <attvalues>
+          <attvalue for="0" value="404151.94276562217" />
+        </attvalues>
+      </edge>
+      <edge source="CORDILLERA ADMINISTRATIVE REGION (CAR)_Q2" target="REGION VII (CENTRAL VISAYAS)_Q3" id="281" weight="4">
+        <attvalues>
+          <attvalue for="0" value="621645.2954422464" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q4" target="REGION VIII (EASTERN VISAYAS)_Q2" id="282" weight="4">
+        <attvalues>
+          <attvalue for="0" value="462687.961132272" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q3" target="REGION VIII (EASTERN VISAYAS)_Q2" id="283" weight="4">
+        <attvalues>
+          <attvalue for="0" value="462687.961132272" />
+        </attvalues>
+      </edge>
+      <edge source="REGION II (CAGAYAN VALLEY)_Q3" target="REGION IX (ZAMBOANGA PENINSULA)_Q3" id="284" weight="4">
+        <attvalues>
+          <attvalue for="0" value="798658.9532424075" />
+        </attvalues>
+      </edge>
+      <edge source="REGION III (CENTRAL LUZON)_Q3" target="REGION VIII (EASTERN VISAYAS)_Q3" id="285" weight="4">
+        <attvalues>
+          <attvalue for="0" value="395460.6817587984" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

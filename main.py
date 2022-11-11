@@ -5,6 +5,7 @@ from st_aggrid import AgGrid
 
 from dashboard_pages.landing import get_contents as landing_content
 from dashboard_pages.eda import get_contents as data_content
+from dashboard_pages.conclusion import get_contents as conclusion_content
 
 im = Image.open("images/favicon.ico")
 st.set_page_config(
@@ -32,9 +33,8 @@ with st.sidebar:
                                    "Our Data",
                                    "Our Approach",
                                    "Conclusions",
-                                   "How to Scale?",
-                                   "FAQs"],
-                         icons=['house', 'boxes', 'diagram-3', 'graph-up-arrow','card-checklist', 'question-circle'],
+                                   ],
+                         icons=['house', 'boxes', 'diagram-3','card-checklist'],
                          default_index=1,
                          styles={
                                 "container": {
@@ -65,11 +65,6 @@ if choose == "Crop Diversification":
     landing_content()
 elif choose == "Our Data":
     data_content()
-# elif choose == "Skill Analysis":
-#     skill_content()
-# elif choose == "Emerging Jobs":
-#     emerging_content()
-# elif choose == "Curriculum Evaluation":
-#     compare_content()
-# elif choose == "FAQs":
-#     faq_content()
+elif choose == "Conclusions":
+    conclusion_content()
+
