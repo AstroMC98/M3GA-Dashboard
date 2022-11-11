@@ -86,4 +86,32 @@ def get_contents():
                     """,
                     unsafe_allow_html=True)
         
+    row1_spacer3, row3_3, row3_spacer2 = st.columns((.105, 0.8, .1))
+    with row3_3:
+        st.markdown("""
+        <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@350&display=swap');
+
+        .openSans {
+        font-size:14px ;
+        font-family: 'Open Sans', sans-serif;
+        color: #000000;
+        line-height: 2;
+        }
+        </style> """, unsafe_allow_html=True)
+        text_content ="""
+        The price of goods in the Philippines have steadily increased over the years. In the advent of global warming and natural disasters, the retail prices of crops have frequently fluctuated in response. 
+        """
+        st.markdown(f'<p class="openSans">{text_content}</p>', unsafe_allow_html=True)
         
+        
+# The Price of Goods in the Philippines have steadily increased over the years. In the advent of global warming and natural disasters, the retail prices of crops have frequently fluctuated in response. 
+#     # <Viz for prices>
+    
+# An example of this is how the price of Garlic simply responds to the available supply of Garlic in the country. Whereas, low supply of Garlic coincided with high prices. In the same manner, Garlic prices dropped when supply went up.  
+#     # <Viz of garlic supply>
+
+# Our team, M3GA, hopes to address this specific issue by optimizing the agricultural supply chain through crop diversification. As of now, there are certain crops that highly concentrated in one location in a specific quarter which in turn results in lower prices at that location for that specific crop but higher prices for other locations. 
+#     # <Choropleths>
+
+# Considering the potential disruption in the agricultural value chain when natural disasters occur for regionally-concentrated crops, there is value in diversifying the types of crops planted across regions. 
