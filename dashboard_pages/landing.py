@@ -36,23 +36,22 @@ def get_contents():
         </style> """, unsafe_allow_html=True)
         project_rationale ="""
         <strong>Project Rationale</strong></br>
-        Crop diversification has been an ongoing strategy by the Department of Agriculture
-        because of its benefits such as increased overall production, reduced overdependence on
-        importation, and better food security. This falls under the assumption that the more varieties of
-        crops a specific area has, the less dependence there is to a particular area and, as such, supply
-        shock issues such as typhoons or pestilence caused by the affected area can be avoided. In
-        this paper, we used the network theory methodology to find alternative areas and quarters to
-        produce a crop. Prior to developing the network, we conducted exploratory data analysis and
-        discovered seasonal trends for certain crops which supports the need to identify alternatives
-        based on time. In addition, provincial clustering displayed groupings that support our intuition
-        that distant areas can have similar traits. Acting on these findings, the network was able to
-        return three alternatives for each crop that are not in the same quarter and are far enough to be
-        unaffected by the same typhoon. We observed that for four out of the five crops, at least one of
-        the three alternatives was a top-5 producer. We can therefore conclude that these
-        recommendations are sensible and the rest of the recommendations should be further explored.
-        We recommend that the Department of Agriculture build on the results by exploring the crop
-        recommendation relationships and assessing the supply chain effects brought about by this
-        study
+        In a country constantly ravaged by typhoons,
+        which in recent years have increased in intensity because of climate change,
+        food security becomes all the more a pressing issue.
+        These natural disasters, when they make landfall,
+        lay waste to plantations of crops that feed the nation,
+        causing tons of food to go to waste and leading to an increased demand and prices for a decreased supply.
+
+        This project seeks to use data science,
+        specifically network science, 
+        to help policymakers manage crop supply in the country through crop diversification.
+        This involves planting crops in areas similar to each other but geographically distant,
+        so that typhoons and other natural calamities do not cripple supply especially of essential goods.
+
+        This project is envisioned be scalable to include other countries in the region and the world,
+        ensuring the robustness of global value chains not only for agriculture but for other industries
+        that have cross-border movement of goods and services.
         """
         st.markdown(f'<p class="openSans">{project_rationale}</p>', unsafe_allow_html=True)
 
