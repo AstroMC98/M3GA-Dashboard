@@ -6,6 +6,8 @@ from st_aggrid import AgGrid
 from dashboard_pages.landing import get_contents as landing_content
 from dashboard_pages.eda import get_contents as data_content
 from dashboard_pages.conclusion import get_contents as conclusion_content
+from dashboard_pages.methodology import get_contents as methodology_content
+from dashboard_pages.recommendations import get_contents as recommendation_content
 
 im = Image.open("images/favicon.ico")
 st.set_page_config(
@@ -33,9 +35,10 @@ with st.sidebar:
                                    "Our Data",
                                    "Our Approach",
                                    "Conclusions",
+                                   "Recommendations"
                                    ],
-                         icons=['house', 'boxes', 'diagram-3','card-checklist'],
-                         default_index=1,
+                         icons=['house', 'boxes', 'diagram-3','card-checklist', 'question-circle'],
+                         default_index=2,
                          styles={
                                 "container": {
                                             "padding": "5!important",
@@ -67,4 +70,8 @@ elif choose == "Our Data":
     data_content()
 elif choose == "Conclusions":
     conclusion_content()
+elif choose == "Our Approach":
+    methodology_content()
+elif choose == "Recommendations":
+    recommendation_content()
 
